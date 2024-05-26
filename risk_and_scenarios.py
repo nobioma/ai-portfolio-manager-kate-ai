@@ -4,7 +4,7 @@ import plotly.express as px
 import altair as alt
 import pandas as pd
 
-st.title('Risk and Scenerios')
+st.title('Risk and Scenarios')
 
 while 'risk' not in st.session_state:
     pass
