@@ -3,7 +3,7 @@ import streamlit as st
 
 
 # Define your API key here
-API_KEY = 'fba8e286495646148f8bc67700283455'
+API_KEY = '...'
 
 def get_investment_news():
     # Define the endpoint URL
